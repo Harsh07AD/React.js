@@ -1,4 +1,5 @@
 body {
+  background-color: #bde0fe;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+/* pageui container */
+.main-container{
+  border-radius: 5px;
+  background-color: #cdb4db;
+}
+/* A container */
+.a-container{
+  background-color: #ffc8dd;
+}
+/* B-container */
+.b-container{
+  background: #00b4d8;
 }
